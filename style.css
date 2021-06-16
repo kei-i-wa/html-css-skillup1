@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+  height: 70px;
+  background-color:orange;
+
+}
+
+.nav-list{
+  text-align: center;
+  width: 1024px;
+  margin: 0 auto;
+  background-color:orange;
+  height: 70px;
+}
+
+ul{
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+}
+
+.menu{
+  margin-right: auto;
+  width: 1024px;
+}
+
+.menu1,
+.menu2,
+.menu3,
+.menu4{
+  font-size: 16px;
+  color: #fafafa;
+  margin: 30px;
+}
+
+.main-visual{
+  background-image: url(img/mv.png);
+  height: 650px;
+  background-size: 100% 100%;
+  
+}
+
+.main-comment{
+  padding: 200px auto;
+  text-align: center;
+  padding-top: 200px;
+
+}
+
+.main-title{
+  font-size: 64px;
+  color: #fafafa;
+  margin-bottom: 10px;
+}
+
+.comment{
+  font-size: 20px;
+  color:#fafafa;
+}
