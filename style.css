@@ -260,7 +260,8 @@ ul{
  }
 
  .cotact2{
-   width: 900px;
+   width: 800px;
+   
    display: flex;
    flex-wrap: wrap;
  }
